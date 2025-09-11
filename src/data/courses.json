@@ -3,7 +3,7 @@
 	{
 		"slug": "vr-tools",
 		"title": "Инструментальные средства разработки VR-приложений",
-		"ready": false
+		"ready": true
 	},
 	{
 		"slug": "team-dev",

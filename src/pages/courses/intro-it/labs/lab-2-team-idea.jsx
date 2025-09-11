@@ -1,8 +1,8 @@
 import { createRoot } from 'react-dom/client'
-import '../../../index.css'
-import Header from '../../../components/Header.jsx'
-import Footer from '../../../components/Footer.jsx'
-import Pill from '../../../components/ui/Pill.jsx'
+import '../../../../index.css'
+import Header from '../../../../components/Header.jsx'
+import Footer from '../../../../components/Footer.jsx'
+import Pill from '../../../../components/ui/Pill.jsx'
 
 const BASE = import.meta.env.BASE_URL || '/'
 
@@ -57,7 +57,7 @@ function Page() {
 					<a href={`${BASE}courses/intro-it/`}>Введение в IT</a>
 					<span className='px-2'>/</span>
 					<span className='text-neutral-300'>
-						Лаба 2 — Команды + генерация идеи
+						Лабораторная работа №2 — Команды + генерация идеи
 					</span>
 				</nav>
 
@@ -120,6 +120,22 @@ function Page() {
 						<h3 className='mt-3 text-xl font-semibold text-neutral-50 tracking-tight'>
 							Формирование команд
 						</h3>
+
+						{/* Блок с философской темой */}
+						<div className='mt-4 p-4 bg-neutral-800/50 rounded-lg border-l-4 border-amber-400/60'>
+							<div className='text-sm font-medium text-amber-400/80 mb-1'>
+								Тема для вдохновения:
+							</div>
+							<div className='text-lg italic text-amber-200/90 font-semibold'>
+								«Путь в тысячу ли начинается с первого шага» — Лао-Цзы
+							</div>
+							<div className='text-sm text-neutral-400 mt-2'>
+								Ваша игра — это долгий путь, и этот первый шаг по формированию
+								команды закладывает основу для всего последующего творческого
+								путешествия.
+							</div>
+						</div>
+
 						<Checklist
 							items={[
 								'Разбейтесь на группы по 3 человека.',

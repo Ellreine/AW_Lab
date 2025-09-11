@@ -1,8 +1,8 @@
 import { createRoot } from 'react-dom/client'
-import '../../../index.css'
-import Header from '../../../components/Header.jsx'
-import Footer from '../../../components/Footer.jsx'
-import Pill from '../../../components/ui/Pill.jsx'
+import '../../../../index.css'
+import Header from '../../../../components/Header.jsx'
+import Footer from '../../../../components/Footer.jsx'
+import Pill from '../../../../components/ui/Pill.jsx'
 
 const BASE = import.meta.env.BASE_URL || '/'
 
@@ -57,7 +57,7 @@ function Page() {
 					<a href={`${BASE}courses/intro-it/`}>Введение в IT</a>
 					<span className='px-2'>/</span>
 					<span className='text-neutral-300'>
-						Лаба 1 — Самопрезентация + персональная страница
+						Лабораторная работа №1 — Самопрезентация + персональная страница
 					</span>
 				</nav>
 

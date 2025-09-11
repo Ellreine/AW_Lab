@@ -21,6 +21,17 @@ export default defineConfig({
 					'courses/intro-it/labs/lab-2-team-idea/index.html'
 				),
 				about: resolve(__dirname, 'about/index.html'),
+				olympiads: resolve(__dirname, 'olympiads/index.html'),
+				scholarships: resolve(__dirname, 'scholarships/index.html'),
+				vr_tools: resolve(__dirname, 'courses/vr-tools/index.html'),
+				vrtools_lab2: resolve(
+					__dirname,
+					'courses/vr-tools/labs/lab-2-scene/index.html'
+				),
+				lab1_vr_tools: resolve(
+					__dirname,
+					'courses/vr-tools/labs/lab-1-concept/index.html'
+				),
 			},
 		},
 	},

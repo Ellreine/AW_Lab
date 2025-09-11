@@ -103,7 +103,7 @@ function Page() {
 
 					<div className='mt-6'>
 						<a
-							href={`${BASE}courses/`}
+							href={`${BASE}/`}
 							className='inline-flex items-center gap-2 rounded-lg border border-neutral-800 px-4 py-2 hover:bg-neutral-900'
 						>
 							← Ко всем предметам
