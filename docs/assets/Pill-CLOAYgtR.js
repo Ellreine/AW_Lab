@@ -1,0 +1,1 @@
+import{j as t}from"./Footer-BfMfrgRA.js";function l({children:e,className:r=""}){return t.jsx("span",{className:`inline-flex items-center rounded-full border border-neutral-800 bg-neutral-900/60 px-2.5 py-1 text-xs text-neutral-300 ${r}`,children:e})}export{l as P};
