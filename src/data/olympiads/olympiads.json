@@ -1,0 +1,193 @@
+{
+	"title": "Каталог хакатонов и олимпиад",
+	"updated_at": "2025-09-14",
+	"items": [
+		{
+			"slug": "sineus-game-dev-hackathon-2025",
+			"title": "GAME DEV ХАКАТОН «Синеус» 2025",
+			"type": "hackathon",
+			"organizer": "Sineys Publishing",
+			"url": "https://sineys.ru/hackathon",
+			"location": {
+				"format": "hybrid",
+				"city": "Москва",
+				"venue": "Pulsar (3-я ул. Ямского Поля, 2, корп. 6)",
+				"country": "RU"
+			},
+			"dates": {
+				"start": "2025-09-01",
+				"end": "2025-11-02",
+				"stages": [
+					{ "name": "Регистрация", "start": "2025-09-01", "end": "2025-10-03" },
+					{
+						"name": "Отборочный онлайн-этап",
+						"start": "2025-09-19",
+						"end": "2025-10-03"
+					},
+					{
+						"name": "Оценка работ",
+						"start": "2025-10-03",
+						"end": "2025-10-18"
+					},
+					{
+						"name": "Финал (офлайн)",
+						"start": "2025-10-31",
+						"end": "2025-11-02"
+					}
+				],
+				"timezone": "Europe/Moscow"
+			},
+			"team": { "min": 1, "max": null, "allow_solo": true },
+			"eligibility": {
+				"who": "открыто для всех; участникам младше 18 — с согласия родителей",
+				"age": "нет жёстких ограничений (18- ограничение только для финала по FAQ)",
+				"notes": "финал офлайн; трансфер/проживание самостоятельно; базовое питание на площадке"
+			},
+			"prize": {
+				"has_prize": true,
+				"fund": 1000000,
+				"currency": "RUB",
+				"breakdown": "указан общий фонд; список дополнительных призов от партнёров формируется"
+			},
+			"themes": ["gamedev", "design", "3d", "unreal", "unity", "art"],
+			"tracks": [],
+			"registration_url": "https://indiehub.ru/ (кнопка «Участвую» на лендинге)",
+			"application_deadline": "2025-10-03",
+			"cost": "free",
+			"notes": "отбор онлайн, финал в Москве; более 2000 участников заявлено",
+			"source": "https://sineys.ru/hackathon",
+			"source_checked_at": "2025-09-14"
+		},
+		{
+			"slug": "vtb-named-grants-2025",
+			"title": "Именные гранты ВТБ 2025",
+			"type": "grant",
+			"organizer": "ПАО «ВТБ»",
+			"url": "https://rabota.vtb.ru/grants/",
+			"location": {
+				"format": "online",
+				"city": null,
+				"venue": null,
+				"country": "RU"
+			},
+			"dates": {
+				"start": "2025-10-21",
+				"end": null,
+				"stages": [
+					{
+						"name": "Онлайн-курс (6 занятий)",
+						"start": "2025-10-21",
+						"end": null
+					},
+					{ "name": "Финал/награждение", "start": null, "end": null }
+				],
+				"timezone": "Europe/Moscow"
+			},
+			"team": { "min": 1, "max": 1, "allow_solo": true },
+			"eligibility": {
+				"who": "студенты 38 вузов-партнёров на целевых факультетах; бакалавриат/магистратура/специалитет",
+				"age": null,
+				"notes": "выпуск 2026–2027; сотрудники ВТБ не допускаются"
+			},
+			"prize": {
+				"has_prize": true,
+				"fund": 200000,
+				"currency": "RUB",
+				"breakdown": "30 победителей получают по 200 000 ₽; дополнительная система баллов и призов"
+			},
+			"themes": ["career", "education", "fintech", "soft-skills", "ai"],
+			"tracks": [],
+			"registration_url": "https://rabota.vtb.ru/grants/",
+			"application_deadline": null,
+			"cost": "free",
+			"notes": "Это грантовая программа с образовательным курсом",
+			"source": "https://rabota.vtb.ru/grants/",
+			"source_checked_at": "2025-09-14"
+		},
+		{
+			"slug": "atomic-hack-3-rosatom-2025",
+			"title": "АтомикХак 3.0 (Росатом)",
+			"type": "hackathon",
+			"organizer": "Госкорпорация «Росатом»",
+			"url": "https://xn--80aaxibin5a5a.xn--p1ai/",
+			"location": {
+				"format": "hybrid",
+				"city": null,
+				"venue": null,
+				"country": "RU"
+			},
+			"dates": {
+				"start": "2025-10-01",
+				"end": "2025-10-31",
+				"stages": [
+					{
+						"name": "Отборочные хакатоны (гибрид)",
+						"start": "2025-10-01",
+						"end": null
+					},
+					{ "name": "Финал (очно)", "start": null, "end": "2025-10-31" }
+				],
+				"timezone": "Europe/Moscow"
+			},
+			"team": { "min": 3, "max": 5, "allow_solo": false },
+			"eligibility": {
+				"who": "студенты/магистранты, граждане РФ; работники Росатома не допускаются",
+				"age": "18+",
+				"notes": "ТОП-5 команд каждого отборочного проходят в финал; мерч/активности"
+			},
+			"prize": {
+				"has_prize": true,
+				"fund": 3000000,
+				"currency": "RUB",
+				"breakdown": "финал: 300 000 / 200 000 / 100 000 ₽; также призы и мерч на отборочных"
+			},
+			"themes": ["ai", "ml", "industry", "energy", "it-core"],
+			"tracks": [],
+			"registration_url": "https://лк.атомикхак.рф",
+			"application_deadline": null,
+			"cost": "free",
+			"notes": "участникам — карьерные активности и консультации от Росатома",
+			"source": "https://xn--80aaxibin5a5a.xn--p1ai/",
+			"source_checked_at": "2025-09-14"
+		},
+		{
+			"slug": "nachni-igru-2025",
+			"title": "Начни игру",
+			"type": "hackathon",
+			"organizer": "АНО «Россия — страна возможностей»",
+			"url": "https://vk.com/startgame_rsv",
+			"location": {
+				"format": "online",
+				"city": null,
+				"venue": null,
+				"country": "RU"
+			},
+			"dates": {
+				"start": null,
+				"end": null,
+				"stages": [],
+				"timezone": "Europe/Moscow"
+			},
+			"team": { "min": null, "max": null, "allow_solo": null },
+			"eligibility": {
+				"who": "открыто для всех",
+				"age": "14+",
+				"notes": null
+			},
+			"prize": {
+				"has_prize": true,
+				"fund": 1600000,
+				"currency": "RUB",
+				"breakdown": null
+			},
+			"themes": ["gamedev"],
+			"tracks": [],
+			"registration_url": "https://vk.com/startgame_rsv",
+			"application_deadline": "2025-10-14",
+			"cost": "free",
+			"notes": "Всероссийский онлайн-геймджем «Начни игру»",
+			"source": "https://vk.com/startgame_rsv",
+			"source_checked_at": "2025-09-14"
+		}
+	]
+}

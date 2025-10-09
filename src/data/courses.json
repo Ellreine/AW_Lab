@@ -1,0 +1,24 @@
+[
+	{ "slug": "intro-it", "title": "Введение в IT", "ready": true },
+	{
+		"slug": "vr-tools",
+		"title": "Инструментальные средства разработки VR-приложений",
+		"ready": true
+	},
+	{
+		"slug": "team-dev",
+		"title": "Технология командной разработки ПО",
+		"ready": false
+	},
+	{
+		"slug": "gamification",
+		"title": "Геймификация в образовании",
+		"ready": false
+	},
+	{
+		"slug": "internet-prog",
+		"title": "Интернет программирование",
+		"ready": false
+	},
+	{ "slug": "web-prog", "title": "Web-программирование", "ready": false }
+]
