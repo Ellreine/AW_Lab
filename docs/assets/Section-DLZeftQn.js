@@ -1,0 +1,1 @@
+import{j as s}from"./Footer-CogwVHYl.js";function a({title:e,children:t,aside:i}){return s.jsxs("section",{className:"mt-12",children:[s.jsxs("div",{className:"flex items-end justify-between gap-4",children:[s.jsx("h2",{className:"text-xl font-semibold",children:e}),i]}),s.jsx("div",{className:"mt-5",children:t})]})}export{a as S};

@@ -1,0 +1,1 @@
+import{j as e}from"./Footer-CogwVHYl.js";function a({children:r}){return e.jsxs("div",{className:"mt-4 rounded-xl border border-neutral-800 bg-neutral-900/60 px-6 py-4 text-neutral-300",children:[e.jsx("div",{className:"text-xs uppercase tracking-wide text-neutral-500",children:"подсказка"}),e.jsx("div",{className:"mt-2 leading-relaxed",children:r})]})}export{a as T};

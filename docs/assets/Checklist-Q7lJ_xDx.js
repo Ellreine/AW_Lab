@@ -1,0 +1,1 @@
+import{j as s}from"./Footer-CogwVHYl.js";function n({items:e}){return s.jsx("ul",{className:"mt-3 space-y-2",children:e.map((a,l)=>s.jsxs("li",{className:"flex items-center gap-3",children:[s.jsx("span",{className:"h-2.5 w-2.5 rounded-full bg-emerald-400/80 shrink-0"}),s.jsx("span",{className:"text-neutral-300",children:a})]},l))})}export{n as C};
